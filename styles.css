@@ -156,13 +156,6 @@ footer {
 .botao {
 	margin-left: auto;
 }
-
-@media (max-width: 768px) {
-    header {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
     .hero {
         padding: 30px;
     }
