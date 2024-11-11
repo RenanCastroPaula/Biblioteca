@@ -152,16 +152,16 @@ footer {
     transform: scale(1.2);
     color: #b0b0b0;
 }
+	
+.botao {
+	margin-left: auto;
+}
 
 @media (max-width: 768px) {
     header {
         flex-direction: column;
         align-items: flex-start;
     }
-	
-.botao {
-	margin-left: auto;
-}
     .hero {
         padding: 30px;
     }
